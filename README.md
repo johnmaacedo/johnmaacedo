@@ -47,7 +47,11 @@ Biblioteca de filmes, séries e animes com capas e episódios automáticos, 60 F
 Todos os meus apps são gratuitos. Se algum deles te ajudou, você pode apoiar com qualquer valor pelo Pix.
 All my apps are free. If one of them helped you, you can support me with any amount via Pix.
 
-### Pix: _em breve / coming soon_
+**Chave Pix / Pix key** (aleatória / random)
+
+```
+89209399-d0a0-44ba-98ce-794483f4f853
+```
 
 Obrigado! · Thank you!
 
